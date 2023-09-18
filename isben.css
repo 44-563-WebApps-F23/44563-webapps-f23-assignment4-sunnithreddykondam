@@ -22,3 +22,18 @@
 .berta{
     color:blue;  
 }
+
+table,th,td,tr{
+    border: 2.5px solid;
+    color: darkmagenta;
+    text-align: center;
+    border-collapse:collapse;
+    margin: 1px;
+}
+th{
+    background-color:lightgray;
+}
+td{
+    padding: 10px;
+    color: black;
+}
