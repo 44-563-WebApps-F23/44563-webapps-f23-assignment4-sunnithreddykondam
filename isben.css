@@ -13,9 +13,7 @@
     background-color:rgb(163, 252, 222);
     color: red;
 }
-.name{
-    font-style: italic;
-}
+
 .mrsElvsted{
     color:green;  
 }
@@ -36,4 +34,17 @@ th{
 td{
     padding: 10px;
     color: black;
+}
+
+.mrsElvsted:hover{
+    font-style: italic;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+
+    border: 2.5px solid #ec0606; 
+}
+.berta:hover{
+    font-style: italic;
+    box-shadow: 0 0 10px rgba(43, 183, 33, 0.5);
+
+    border: 2.5px solid #06ec15; 
 }
