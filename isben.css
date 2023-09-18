@@ -48,3 +48,18 @@ td{
 
     border: 2.5px solid #06ec15; 
 }
+
+.navbar {
+    background-color: #10fc92; 
+    color: rgba(209, 10, 10, 0.918); 
+    text-align: center; 
+    padding: 10px; 
+  }
+  
+  .navbar a {
+    text-decoration:solid; 
+    font-style:italic;
+    color: rgba(209, 10, 10, 0.918);
+    margin: 0 15px; 
+  }
+  
